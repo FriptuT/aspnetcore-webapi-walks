@@ -1,0 +1,6 @@
+@Refreshing.API_HostAddress = http://localhost:5255
+
+GET {{Refreshing.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
