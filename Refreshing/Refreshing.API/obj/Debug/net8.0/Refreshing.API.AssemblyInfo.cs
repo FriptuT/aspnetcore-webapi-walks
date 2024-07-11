@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Refreshing.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa2df210e58503454a2cb7c6f904ab5c4447745a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Refreshing.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Refreshing.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

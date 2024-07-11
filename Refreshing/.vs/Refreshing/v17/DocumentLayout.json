@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|m:\\github repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\refreshing\\refreshing.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|solutionrelative:refreshing.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|m:\\github repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\refreshing\\refreshing.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|solutionrelative:refreshing.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|m:\\github repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\refreshing\\refreshing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AAFB9-CCDD-4CD7-B1C4-6B85C62986B9}|Refreshing.API\\Refreshing.API.csproj|solutionrelative:refreshing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Program.cs",
+              "RelativeDocumentMoniker": "Refreshing.API\\Program.cs",
+              "ToolTip": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Program.cs",
+              "RelativeToolTip": "Refreshing.API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:19:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Refreshing.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Refreshing.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:08:24.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "Refreshing.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "M:\\GitHub Repositories\\aspnetcore-refresh\\aspnetcore-webapi-walks\\Refreshing\\Refreshing.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "Refreshing.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA0wH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:00:08.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
